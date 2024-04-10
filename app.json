@@ -1,21 +1,21 @@
 {
-  "name": "whatsapp-bot (hermit-md)",
+  "name": "≛͢⃝⃖✯⎈͢𝑺᪵𝑼͢𝑯𝑨𝑰𝑳᪵𖠇𝑺᪵𝑬𝑹᭄⎈͢ ≛⃝⃗➳",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/A-d-i-t-h-y-a-n/hermit-md",
+  "repository": "https://github.com/itzmesuhail143/hermit-md",
   "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "session id",
       "required": false,
-      "value": ""
+      "value": "04_10_H_E_R_M_I_T_TS7APBP"
     },
     "SUDO": {
       "description": "admin",
       "required": true,
-      "value": "null"
+      "value": "916374437144"
     },
     "MODE": {
       "description": "mode",
@@ -25,7 +25,7 @@
     "ALWAYS_ONLINE": {
       "description": "show bot number last seen as online",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered",
@@ -38,7 +38,7 @@
     "LOG_MSG": {
       "description": "Show whatsapp msgs in log",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "PREFIX": {
       "description": "prefix for bot. all so can be null or false multi prefix",
@@ -48,22 +48,22 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;972528277755;https://i.imgur.com/6oRG106.jpeg"
+      "value": "≛͢⃝⃖✯⎈͢𝑺᪵𝑼͢𝑯𝑨𝑰𝑳᪵𖠇𝑺᪵𝑬𝑹᭄⎈͢ ≛⃝⃗➳;𝑆𝑈𝛨𝛥𝛪𝐿 𝑆𝛯𝑅;916374437144;https://i.imgur.com/AKhXFRQ.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": false,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮"
+      "value": "≛͢⃝⃖✯⎈͢𝑺᪵𝑼͢𝑯𝑨𝑰𝑳᪵𖠇𝑺᪵𝑬𝑹᭄⎈͢ ≛⃝⃗➳;𝑆𝑈𝛨𝛥𝛪𝐿 𝑆𝛯𝑅"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": false,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;https://i.imgur.com/6oRG106.jpeg"
+      "value": "𝑆𝑈𝛨𝛥𝛪𝐿 𝑆𝛯𝑅;≛͢⃝⃖✯⎈͢𝑺᪵𝑼͢𝑯𝑨𝑰𝑳᪵𖠇𝑺᪵𝑬𝑹᭄⎈͢ ≛⃝⃗➳;https://i.imgur.com/AKhXFRQ.jpeg"
     },
     "READ_COMMAND": {
       "description": "Read all commands",
       "required": false,
-      "value": "false"
+      "value": "true"
     }
   },
   "addons": [
